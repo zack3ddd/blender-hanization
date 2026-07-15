@@ -11,7 +11,8 @@
 
 - 一鍵把簡體介面換成繁體（以官方 `zh_HANS` 簡體翻譯**逐字轉繁**為底）
 - 可選的「習慣用語替換」：菜單→選單、窗口→視窗、默認→預設…（內建 24 條，可自行增減）
-- ![繁化助手面板](docs/panel.png)
+<img width="952" height="984" alt="image" src="https://github.com/user-attachments/assets/fa9d4ccb-5537-48c1-97f0-c6516e66f15f" />
+
 - 一鍵還原回原本簡體
 - 寫入受保護資料夾時**自動跳 Windows 授權**，按「是」即可，不需事先設定權限
 
