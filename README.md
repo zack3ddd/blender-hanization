@@ -39,5 +39,3 @@
 - 原始簡體語系檔來源：<https://projects.blender.org/blender/blender-ui-translations/src/branch/main/zh_HANS>
 - 內含 [polib](https://github.com/izimobil/polib)（MIT License），用於在執行期產生 `.mo` 語系檔。
 - 本外掛以 **GNU GPL** 釋出。
-
-如果你覺得某個用詞這樣翻更好，Blender 官方翻譯是開放大家一起貢獻的，很歡迎你去提交，讓大家用的版本一起變更好。
