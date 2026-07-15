@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Brown Modern Visit Our Website Video Instagram Post (1)" src="https://github.com/user-attachments/assets/6169c6fa-06f4-4f7d-905c-3baf888aba36" />
+
 # 繁化助手（Blender 簡中 → 繁體）
 
 把 Blender 內建的**簡體中文**介面換成**繁體中文**，並可選擇性套用台灣習慣用語。一鍵套用、一鍵還原。
