@@ -32,6 +32,9 @@
 4. 還原 → 按「**還原原本簡體**」
 
 > 每次套用/還原後會嘗試即時生效；若介面沒立即改變，重新啟動 Blender 一次即可。
+>
+## 使用教學
+[![Blender 簡中繁化助手教學](https://img.youtube.com/vi/RkdJ8WHn1IQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=RkdJ8WHn1IQ)
 
 ## 注意事項
 
