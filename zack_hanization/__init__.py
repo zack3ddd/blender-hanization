@@ -1,8 +1,8 @@
 bl_info = {
     "name": "繁化助手（簡中→繁體）",
     "author": "Zack3D",
-    "version": (0, 3, 0),
-    "blender": (5, 2, 0),
+    "version": (0, 3, 1),
+    "blender": (4, 2, 0),
     "location": "Edit > Preferences > Add-ons > 繁化助手",
     "description": "把 Blender 內建的簡體中文介面換成繁體，並可選擇性套用習慣用語替換。以檔案替換方式運作，可一鍵還原。",
     "category": "User Interface",
